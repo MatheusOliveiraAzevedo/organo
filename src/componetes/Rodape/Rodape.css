@@ -1,0 +1,26 @@
+.rodape {
+    /* height: 30vh; */
+    padding: 80px;
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.midiaRodape li {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.midiaRodape li:last-child {
+    margin-right: 0;
+}
+
+.imgRodape {
+    width: 10%;
+    height: 20%;
+}
+
+.rodape h3 {
+    color: white;
+}
